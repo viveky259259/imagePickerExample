@@ -1,16 +1,12 @@
-# imagePickerExample
+# imagePickerExample [ Youtube Video Tutorial]
 
-A new Flutter project.
+# How to add image picker in flutter apps (android/ios)
+# URL: https://youtu.be/EgTNXKUwjpA
+Get more flutter related contents at: 
+Medium: medium.com/@viveky259259
+Twitter: https://www.twitter.com/viveky259
+Instagram: https://www.instagram.com/viveky259/
 
-## Getting Started
+Subscribe and hit the bell icon to get notification of new videos.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#build #stateful #flutter #update #basics #tips #procoach #viveky259 #imagepicker #image
