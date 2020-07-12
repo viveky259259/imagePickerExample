@@ -4,7 +4,7 @@
 # URL: https://youtu.be/EgTNXKUwjpA
 Get more flutter related contents at:
 
-Medium: medium.com/@viveky259259 
+Medium: https://medium.com/@viveky259259
 
 Twitter: https://www.twitter.com/viveky259
 
